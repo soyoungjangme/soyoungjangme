@@ -27,9 +27,9 @@
 ### 📫 Contact
 <a href="mailto:soyoungjang.jsy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="soyoungjang.jsy@gmail.com"/></a>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungjangme&layout=compact)
-
+-->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungjangme&hide=contribs,prs&show_icons=true&theme=greywhite)
