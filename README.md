@@ -1,7 +1,7 @@
-
+<!--
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
 
   
 ### 💻 Language
@@ -9,7 +9,7 @@
 
 
 ### 📚 framework
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-7E3A3A?style=for-the-badge&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-7E3A3A?style=for-the-badge&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
 
 
 ### 🛠 Tools
@@ -27,9 +27,9 @@
 ### 📫 Contact
 <a href="mailto:soyoungjang.jsy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="soyoungjang.jsy@gmail.com"/></a>
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungjangme&layout=compact)
--->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungjangme&hide=contribs,prs&show_icons=true&theme=greywhite)
@@ -38,7 +38,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
 
 
 </div>
