@@ -29,9 +29,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungjangme&layout=compact)
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungjangme&hide=contribs,prs&show_icons=true&theme=greywhite)
-
+-->
 
 
 
