@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white"/>
 
 
-### 📫 you can contact with ...
+### 📫 email & tistory
 <a href="mailto:soyoungjang.jsy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="soyoungjang.jsy@gmail.com"/></a> 
 <a href="https://soyoungjang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white" alt="https://soyoungjang.tistory.com"/></a>
 
