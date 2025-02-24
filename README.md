@@ -1,10 +1,8 @@
 
 <div align="center">
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
-
-# 😀 welcome to my home
-  
+-->
 ### 💻 Tech Stack
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-7E3A3A?style=for-the-badge&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
@@ -39,9 +37,9 @@
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungjangme&show_icons=true&theme=radical)
 -->
 
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
-
+-->
 
 </div>
 
